@@ -1,7 +1,7 @@
 local tableRadiantHeroes =  { 
         { "npc_dota_hero_crystal_maiden",      LANE_BOT },
         { "npc_dota_hero_kunkka",              LANE_MID },
-        { "npc_dota_hero_bane",                LANE_BOT },
+        { "npc_dota_hero_axe",                 LANE_TOP },
         { "npc_dota_hero_shredder",            LANE_TOP },
         { "npc_dota_hero_lina",                LANE_BOT },
   };
